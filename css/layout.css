@@ -52,7 +52,7 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;s
+   padding-bottom: 30px;
    text-align: center;
 }
 
@@ -93,7 +93,7 @@ header .social li {
    margin: 0 15px;
    padding: 0;
 }
-header .social li a { color: #007bff;) }
+header .social li a { color: #007bff; }
 header .social li a:hover { color: black; }
 
 /* scrolldown link */
@@ -756,7 +756,7 @@ call-to-action .button {
     margin: 0 6px;
     display: inline-block;
     zoom: 1;
-    *display: inline;
+    display: inline;
 }
 .flex-control-paging li a {
     width: 12px;
